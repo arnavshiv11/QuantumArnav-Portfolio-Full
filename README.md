@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QuantumArnav — Portfolio (Dark, Advanced)
 
 A production-ready portfolio starter using **React + Vite + Tailwind + Framer Motion** with a dark futuristic style.
@@ -34,3 +35,7 @@ npm run preview
 1. Create a free account at formspree.io
 2. Make a new form, copy its **Endpoint** (looks like `https://formspree.io/f/xxxxxxx`)
 3. Paste it into `src/components/Contact.jsx` as the `action`.
+=======
+# QuantumArnav-Portfolio-Full
+its my porfolio website for people who want to make web i would make for them
+>>>>>>> 2e5f9499d91d5b95df6e98d7a85d1f409db231e5
