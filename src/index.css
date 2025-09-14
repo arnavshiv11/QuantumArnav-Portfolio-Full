@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Glassmorphism card */
+.card-glass {
+  @apply bg-white/5 backdrop-blur-xl border border-white/10 rounded-2xl shadow-glow;
+}
+
+/* Text gradient */
+.text-gradient {
+  background: linear-gradient(90deg, #22d3ee, #a78bfa, #22d3ee);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
